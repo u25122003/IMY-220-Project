@@ -1,0 +1,17 @@
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "3000:3000"
+    environment:
+      - "MONGO_URI=mongodb+srv://keagancoetzee444_db_user:hvrJOu6qM6aK3LdY@cluster0.jjamgfv.mongodb.net/PhotoShare?retryWrites=true&w=majority"
+      
+  frontend:
+    build: ./frontend
+    ports:
+      - "5173:5173"
+    environment:
+      # Vite forwards /api requests to the backend container
+      - "API_URL=http://backend:3000"
+    depends_on:
+      - backend

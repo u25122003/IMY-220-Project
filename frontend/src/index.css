@@ -1,0 +1,89 @@
+/* Fonts are embedded here (Google Fonts) rather than in index.html */
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&family=Permanent+Marker&display=swap");
+@import "tailwindcss";
+
+/* Pick n Post theme: warm beige paper, burnt orange accents, polaroid cards */
+@theme {
+  --font-sans: "Nunito", sans-serif;
+  --font-marker: "Permanent Marker", cursive;
+
+  --color-beige: #F3EFE0;
+  --color-sand: #E6DFCD;
+  --color-burnt: #C04E01;
+  --color-burnt-dark: #8A3800;
+  --color-ink: #2C2C2C;
+  --color-muted: #6B6355;
+  --color-polaroid: #FAFAFA;
+  --color-olive: #5B6B3A;
+  --color-danger: #B3261E;
+}
+
+/* Dark mode: the same colour names get darker / lighter values when <html> has the "dark" class,
+   so every component switches automatically. burnt-dark becomes lighter here so it still stands out. */
+.dark {
+  color-scheme: dark;
+  --color-beige: #1C1915;
+  --color-sand: #332D25;
+  --color-burnt: #E07A2E;
+  --color-burnt-dark: #F2A766;
+  --color-ink: #F1EADB;
+  --color-muted: #B3A893;
+  --color-polaroid: #2A251F;
+  --color-olive: #A3BA6E;
+  --color-danger: #EF6A5F;
+}
+
+@layer base {
+  body {
+    @apply bg-beige text-ink font-sans antialiased;
+  }
+
+  h1, h2, h3 {
+    @apply font-extrabold text-ink;
+  }
+}
+
+/* Reusable building blocks for the theme */
+@utility btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-2 font-bold transition-colors cursor-pointer disabled:cursor-not-allowed disabled:opacity-60;
+}
+
+@utility btn-primary {
+    @apply btn bg-burnt text-beige hover:bg-burnt-dark;
+}
+
+@utility btn-secondary {
+    @apply btn bg-sand text-ink hover:bg-ink hover:text-beige;
+}
+
+@utility btn-danger {
+    @apply btn bg-danger text-polaroid hover:bg-ink;
+}
+
+@utility btn-small {
+    @apply px-3! py-1! text-sm;
+}
+
+@utility input {
+    @apply w-full rounded-lg border-2 border-sand bg-polaroid px-4 py-2.5 text-ink placeholder:text-muted/70 focus:border-burnt focus:outline-none;
+}
+
+@utility label {
+    @apply mb-1 block text-sm font-bold text-muted;
+}
+
+@utility card {
+    @apply rounded-2xl bg-polaroid p-6 shadow-[0_8px_24px_rgba(44,44,44,0.08)];
+}
+
+@utility polaroid {
+    @apply bg-polaroid p-3 pb-6 shadow-[2px_6px_15px_rgba(0,0,0,0.1)] transition-transform duration-300;
+}
+
+@utility hashtag {
+    @apply rounded-full bg-sand px-3 py-0.5 text-sm font-bold text-burnt-dark;
+}
+
+@utility section-title {
+    @apply font-marker text-3xl text-burnt;
+}

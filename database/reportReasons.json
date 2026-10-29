@@ -1,0 +1,22 @@
+﻿[
+  {
+    "_id": "6ae3ade3a3021ace697ccc81",
+    "reason": "Spam",
+    "createdAt": "2026-08-07T12:34:42.156Z"
+  },
+  {
+    "_id": "6ae3ade3a3021ace697ccc82",
+    "reason": "Inappropriate content",
+    "createdAt": "2026-08-07T12:34:42.156Z"
+  },
+  {
+    "_id": "6ae3ade3a3021ace697ccc83",
+    "reason": "Harassment or bullying",
+    "createdAt": "2026-08-07T12:34:42.156Z"
+  },
+  {
+    "_id": "6ae3ade3a3021ace697ccc84",
+    "reason": "False information",
+    "createdAt": "2026-08-07T12:34:42.156Z"
+  }
+]

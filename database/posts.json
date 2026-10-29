@@ -1,0 +1,650 @@
+﻿[
+  {
+    "_id": "662000000000000000000001",
+    "authorId": "660000000000000000000010",
+    "image": "/assets/posts/giraffe.jpg",
+    "caption": "Spotted this gentle giant on our game drive.",
+    "hashtags": [
+      "#safari",
+      "#wildlife",
+      "#photography"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc2e",
+        "userId": "660000000000000000000001",
+        "text": "Such a beautiful shot!",
+        "createdAt": "2026-10-10T06:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc2f",
+        "userId": "660000000000000000000011",
+        "text": "He walked right past us, what luck.",
+        "createdAt": "2026-10-10T16:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-09T20:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000002",
+    "authorId": "660000000000000000000010",
+    "image": "/assets/posts/elephant.jpg",
+    "caption": "Way closer than I expected. No zoom lens needed!",
+    "hashtags": [
+      "#safari",
+      "#elephant",
+      "#wildlife"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc30",
+        "userId": "660000000000000000000011",
+        "text": "Those ears are massive.",
+        "createdAt": "2026-10-11T12:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc31",
+        "userId": "660000000000000000000001",
+        "text": "That is unreal, how close were you?",
+        "createdAt": "2026-10-11T17:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-09T22:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000003",
+    "authorId": "660000000000000000000010",
+    "image": "/assets/posts/rhinos.jpg",
+    "caption": "Traffic jam, bushveld style.",
+    "hashtags": [
+      "#safari",
+      "#rhino",
+      "#roadtrip"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc32",
+        "userId": "660000000000000000000001",
+        "text": "Worth every minute of waiting.",
+        "createdAt": "2026-10-11T22:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-10T00:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000004",
+    "authorId": "660000000000000000000011",
+    "image": "/assets/posts/waterhole.jpg",
+    "caption": "Still water and no wind. Perfect afternoon at the dam.",
+    "hashtags": [
+      "#landscape",
+      "#nature",
+      "#safari"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc33",
+        "userId": "660000000000000000000010",
+        "text": "We should have stayed longer.",
+        "createdAt": "2026-10-12T08:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-10T02:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000005",
+    "authorId": "660000000000000000000011",
+    "image": "/assets/posts/formal-night.jpg",
+    "caption": "Suited up for the big night.",
+    "hashtags": [
+      "#formal",
+      "#throwback",
+      "#friends"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc34",
+        "userId": "660000000000000000000001",
+        "text": "Throwback of the century.",
+        "createdAt": "2026-10-17T18:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc35",
+        "userId": "660000000000000000000010",
+        "text": "Cleanest group photo of the year.",
+        "createdAt": "2026-10-18T04:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-17T08:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000006",
+    "authorId": "660000000000000000000011",
+    "image": "/assets/posts/catch-up.jpg",
+    "caption": "Finally caught up with this guy after months.",
+    "hashtags": [
+      "#friends",
+      "#weekend"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc36",
+        "userId": "660000000000000000000001",
+        "text": "About time!",
+        "createdAt": "2026-10-28T19:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-28T14:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000007",
+    "authorId": "660000000000000000000007",
+    "image": "/assets/posts/safari-mirror.jpg",
+    "caption": "Behind the lens for once on the drive through the reserve.",
+    "hashtags": [
+      "#photography",
+      "#roadtrip",
+      "#safari"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc37",
+        "userId": "660000000000000000000006",
+        "text": "The photographer finally gets photographed.",
+        "createdAt": "2026-10-12T18:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-10T04:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000008",
+    "authorId": "660000000000000000000007",
+    "image": "/assets/posts/beach-day.jpg",
+    "caption": "Low tide walks are the best walks.",
+    "hashtags": [
+      "#beach",
+      "#summer",
+      "#holiday"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc38",
+        "userId": "660000000000000000000002",
+        "text": "Take me back!",
+        "createdAt": "2026-10-23T04:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc39",
+        "userId": "660000000000000000000006",
+        "text": "That sky is perfect.",
+        "createdAt": "2026-10-23T14:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-22T18:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000009",
+    "authorId": "660000000000000000000007",
+    "image": "/assets/posts/signing-the-wall.jpg",
+    "caption": "Left our mark on the most famous wall in town.",
+    "hashtags": [
+      "#roadtrip",
+      "#memories",
+      "#holiday"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc3a",
+        "userId": "660000000000000000000006",
+        "text": "Did you find a spot for our names too?",
+        "createdAt": "2026-10-26T02:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc3b",
+        "userId": "660000000000000000000002",
+        "text": "Love this place.",
+        "createdAt": "2026-10-26T12:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-25T20:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000010",
+    "authorId": "660000000000000000000003",
+    "image": "/assets/posts/the-boys.jpg",
+    "caption": "Sunny afternoon with the boys.",
+    "hashtags": [
+      "#friends",
+      "#summer"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc3c",
+        "userId": "660000000000000000000004",
+        "text": "Legendary day.",
+        "createdAt": "2026-10-19T05:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc3d",
+        "userId": "660000000000000000000009",
+        "text": "Need to do this again soon.",
+        "createdAt": "2026-10-19T10:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-19T00:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000011",
+    "authorId": "660000000000000000000003",
+    "image": "/assets/posts/strawberries.jpg",
+    "caption": "Strawberry season is officially here.",
+    "hashtags": [
+      "#strawberries",
+      "#weekend",
+      "#market"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc3e",
+        "userId": "660000000000000000000001",
+        "text": "Save me a punnet!",
+        "createdAt": "2026-10-19T15:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc3f",
+        "userId": "660000000000000000000004",
+        "text": "How many did you end up buying?",
+        "createdAt": "2026-10-19T20:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-19T10:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000012",
+    "authorId": "660000000000000000000005",
+    "image": "/assets/posts/hangout.jpg",
+    "caption": "Movie night turned into a whole evening of catching up.",
+    "hashtags": [
+      "#friends",
+      "#nightin"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc40",
+        "userId": "660000000000000000000001",
+        "text": "Good times.",
+        "createdAt": "2026-10-20T01:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc41",
+        "userId": "660000000000000000000009",
+        "text": "Missed this one, next time.",
+        "createdAt": "2026-10-20T06:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-19T20:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000013",
+    "authorId": "660000000000000000000005",
+    "image": "/assets/posts/rooftop-sunset.jpg",
+    "caption": "Golden hour from the rooftop.",
+    "hashtags": [
+      "#sunset",
+      "#city",
+      "#friends"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc42",
+        "userId": "660000000000000000000001",
+        "text": "That sky is unreal.",
+        "createdAt": "2026-10-24T05:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-24T00:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000014",
+    "authorId": "660000000000000000000004",
+    "image": "/assets/posts/campus-selfie.jpg",
+    "caption": "Campus day out in the sun.",
+    "hashtags": [
+      "#campus",
+      "#friends"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc43",
+        "userId": "660000000000000000000003",
+        "text": "Great day!",
+        "createdAt": "2026-10-21T17:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc44",
+        "userId": "660000000000000000000001",
+        "text": "Looking happy there.",
+        "createdAt": "2026-10-21T22:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-21T12:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000015",
+    "authorId": "660000000000000000000004",
+    "image": "/assets/posts/squad-selfie.jpg",
+    "caption": "Sunday squad.",
+    "hashtags": [
+      "#friends",
+      "#weekend",
+      "#selfie"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc45",
+        "userId": "660000000000000000000001",
+        "text": "Best Sunday in ages.",
+        "createdAt": "2026-10-27T13:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc46",
+        "userId": "660000000000000000000003",
+        "text": "We need to do this more often.",
+        "createdAt": "2026-10-27T18:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc47",
+        "userId": "660000000000000000000008",
+        "text": "Everyone actually smiling for once!",
+        "createdAt": "2026-10-28T04:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc48",
+        "userId": "660000000000000000000003",
+        "text": "Where was my invite?",
+        "createdAt": "2026-10-28T08:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc49",
+        "userId": "660000000000000000000004",
+        "text": "Next Sunday, you are coming!",
+        "createdAt": "2026-10-28T10:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc4a",
+        "userId": "660000000000000000000001",
+        "text": "Great photo of all of us.",
+        "createdAt": "2026-10-28T16:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc4b",
+        "userId": "660000000000000000000008",
+        "text": "Frame this one.",
+        "createdAt": "2026-10-28T22:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-27T08:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000016",
+    "authorId": "660000000000000000000006",
+    "image": "/assets/posts/road-trip.jpg",
+    "caption": "Road trip mode: activated.",
+    "hashtags": [
+      "#roadtrip",
+      "#friends"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc4c",
+        "userId": "660000000000000000000002",
+        "text": "Where are you off to?",
+        "createdAt": "2026-10-25T11:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc4d",
+        "userId": "660000000000000000000007",
+        "text": "Have the best time!",
+        "createdAt": "2026-10-25T16:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-25T06:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000017",
+    "authorId": "660000000000000000000006",
+    "image": "/assets/posts/car-crew.jpg",
+    "caption": "The car crew, ready for the long drive.",
+    "hashtags": [
+      "#roadtrip",
+      "#friends",
+      "#holiday"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc4e",
+        "userId": "660000000000000000000002",
+        "text": "Best travel buddies.",
+        "createdAt": "2026-10-26T07:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc4f",
+        "userId": "660000000000000000000007",
+        "text": "Snacks were elite.",
+        "createdAt": "2026-10-26T10:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-26T02:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000018",
+    "authorId": "660000000000000000000008",
+    "image": "/assets/posts/shop-run.jpg",
+    "caption": "Quick shop run before practice.",
+    "hashtags": [
+      "#friends",
+      "#weekend"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc50",
+        "userId": "660000000000000000000004",
+        "text": "Did you save me a snack?",
+        "createdAt": "2026-10-28T06:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-28T04:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000019",
+    "authorId": "660000000000000000000008",
+    "image": "/assets/posts/dress-up.jpg",
+    "caption": "Dress-up day. Nobody held back.",
+    "hashtags": [
+      "#dressup",
+      "#friends",
+      "#throwback"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc51",
+        "userId": "660000000000000000000004",
+        "text": "That hat is iconic.",
+        "createdAt": "2026-10-23T19:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc52",
+        "userId": "660000000000000000000012",
+        "text": "Best costume award goes to...",
+        "createdAt": "2026-10-24T00:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-23T14:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000020",
+    "authorId": "660000000000000000000009",
+    "image": "/assets/posts/dorm-cone.jpg",
+    "caption": "Found a new room decoration. Do not ask.",
+    "hashtags": [
+      "#res",
+      "#student",
+      "#funny"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc53",
+        "userId": "660000000000000000000003",
+        "text": "Classic.",
+        "createdAt": "2026-10-24T15:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc54",
+        "userId": "660000000000000000000005",
+        "text": "It suits the room.",
+        "createdAt": "2026-10-24T20:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-24T10:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000021",
+    "authorId": "660000000000000000000012",
+    "image": "/assets/posts/campsite.jpg",
+    "caption": "Quiet morning at the campsite before everyone woke up.",
+    "hashtags": [
+      "#camping",
+      "#outdoors",
+      "#bushveld"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc55",
+        "userId": "660000000000000000000006",
+        "text": "Looks so peaceful.",
+        "createdAt": "2026-10-29T08:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc56",
+        "userId": "660000000000000000000008",
+        "text": "Next time I am coming along.",
+        "createdAt": "2026-10-29T12:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-29T02:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000022",
+    "authorId": "660000000000000000000002",
+    "image": "/assets/posts/smoothie.jpg",
+    "caption": "Smoothie in the sun. Perfect afternoon.",
+    "hashtags": [
+      "#summer",
+      "#weekend"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc57",
+        "userId": "660000000000000000000001",
+        "text": "That looks so good.",
+        "createdAt": "2026-10-28T02:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc58",
+        "userId": "660000000000000000000006",
+        "text": "Where is this?",
+        "createdAt": "2026-10-28T06:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-27T23:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000023",
+    "authorId": "660000000000000000000002",
+    "image": "/assets/posts/cat.jpg",
+    "caption": "My study buddy refuses to let me work.",
+    "hashtags": [
+      "#cat",
+      "#studybuddy"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc59",
+        "userId": "660000000000000000000007",
+        "text": "That face!",
+        "createdAt": "2026-10-29T16:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc5a",
+        "userId": "660000000000000000000001",
+        "text": "Best study buddy ever.",
+        "createdAt": "2026-10-29T17:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-29T14:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000024",
+    "authorId": "660000000000000000000001",
+    "image": "/assets/posts/open-mic.jpg",
+    "caption": "Open mic night was a vibe. Great set from everyone.",
+    "hashtags": [
+      "#music",
+      "#livemusic",
+      "#openmic"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc5b",
+        "userId": "660000000000000000000005",
+        "text": "Sounded amazing from the back.",
+        "createdAt": "2026-10-21T02:34:42.155Z"
+      },
+      {
+        "_id": "6ae3ade2a3021ace697ccc5c",
+        "userId": "660000000000000000000003",
+        "text": "When is the next one?",
+        "createdAt": "2026-10-21T12:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-20T16:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000025",
+    "authorId": "660000000000000000000001",
+    "image": "/assets/posts/lunch.jpg",
+    "caption": "Good food and good company.",
+    "hashtags": [
+      "#lunch",
+      "#weekend"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc5d",
+        "userId": "660000000000000000000002",
+        "text": "Such a lovely day.",
+        "createdAt": "2026-10-29T10:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-29T08:34:42.155Z"
+  },
+  {
+    "_id": "662000000000000000000026",
+    "authorId": "660000000000000000000001",
+    "image": "/assets/posts/milkshake.jpg",
+    "caption": "Milkshake stop on the way home.",
+    "hashtags": [
+      "#milkshake",
+      "#treat"
+    ],
+    "comments": [
+      {
+        "_id": "6ae3ade2a3021ace697ccc5e",
+        "userId": "660000000000000000000004",
+        "text": "Which flavour?",
+        "createdAt": "2026-10-29T18:34:42.155Z"
+      }
+    ],
+    "createdAt": "2026-10-29T17:34:42.155Z"
+  }
+]

@@ -1,0 +1,30 @@
+﻿[
+  {
+    "_id": "6ae3ade3a3021ace697ccc85",
+    "postId": "662000000000000000000018",
+    "reporterId": "660000000000000000000009",
+    "reason": "Spam",
+    "createdAt": "2026-10-29T05:34:42.156Z"
+  },
+  {
+    "_id": "6ae3ade3a3021ace697ccc86",
+    "postId": "662000000000000000000018",
+    "reporterId": "660000000000000000000005",
+    "reason": "Inappropriate content",
+    "createdAt": "2026-10-29T10:34:42.156Z"
+  },
+  {
+    "_id": "6ae3ade3a3021ace697ccc87",
+    "postId": "662000000000000000000018",
+    "reporterId": "660000000000000000000011",
+    "reason": "Spam",
+    "createdAt": "2026-10-29T14:34:42.156Z"
+  },
+  {
+    "_id": "6ae3ade3a3021ace697ccc88",
+    "postId": "662000000000000000000004",
+    "reporterId": "660000000000000000000002",
+    "reason": "False information",
+    "createdAt": "2026-10-25T16:34:42.156Z"
+  }
+]

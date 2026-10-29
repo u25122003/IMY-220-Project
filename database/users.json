@@ -1,0 +1,232 @@
+﻿[
+  {
+    "_id": "660000000000000000000001",
+    "name": "Keagan Coetzee",
+    "username": "keags",
+    "email": "keagan@gmail.com",
+    "password": "Coetzee@123",
+    "pronouns": "",
+    "bio": "Multimedia student. Coffee enthusiast & amateur 3D artist.",
+    "avatar": "/assets/avatars/keagan.svg",
+    "friends": [
+      "660000000000000000000002",
+      "660000000000000000000003",
+      "660000000000000000000004",
+      "660000000000000000000005",
+      "660000000000000000000010",
+      "660000000000000000000011"
+    ],
+    "friendRequests": [
+      "660000000000000000000009"
+    ],
+    "isAdmin": false,
+    "createdAt": "2026-08-28T18:34:42.154Z"
+  },
+  {
+    "_id": "660000000000000000000002",
+    "name": "Alissa Grobler",
+    "username": "alissa_g",
+    "email": "alissa@gmail.com",
+    "password": "Grobler@123",
+    "pronouns": "",
+    "bio": "Living life to the fullest.",
+    "avatar": "/assets/avatars/alissa.svg",
+    "friends": [
+      "660000000000000000000001",
+      "660000000000000000000006",
+      "660000000000000000000007"
+    ],
+    "friendRequests": [],
+    "isAdmin": false,
+    "createdAt": "2026-08-29T04:34:42.154Z"
+  },
+  {
+    "_id": "660000000000000000000003",
+    "name": "Jared Beyleveldt",
+    "username": "jared.b",
+    "email": "jared@gmail.com",
+    "password": "Beyleveldt@123",
+    "pronouns": "",
+    "bio": "Beach days and good company.",
+    "avatar": "/assets/avatars/default.svg",
+    "friends": [
+      "660000000000000000000001",
+      "660000000000000000000004",
+      "660000000000000000000009"
+    ],
+    "friendRequests": [],
+    "isAdmin": false,
+    "createdAt": "2026-08-29T14:34:42.154Z"
+  },
+  {
+    "_id": "660000000000000000000004",
+    "name": "Ben Cornell",
+    "username": "ben_cornell",
+    "email": "ben@gmail.com",
+    "password": "Cornell@123",
+    "pronouns": "",
+    "bio": "Always up for a road trip.",
+    "avatar": "/assets/avatars/default.svg",
+    "friends": [
+      "660000000000000000000001",
+      "660000000000000000000003",
+      "660000000000000000000008"
+    ],
+    "friendRequests": [],
+    "isAdmin": false,
+    "createdAt": "2026-08-30T00:34:42.154Z"
+  },
+  {
+    "_id": "660000000000000000000005",
+    "name": "Matthew Shepherd",
+    "username": "matt.shepherd",
+    "email": "matthew@gmail.com",
+    "password": "Shepherd@123",
+    "pronouns": "",
+    "bio": "Music lover. Find me at the next open mic night.",
+    "avatar": "/assets/avatars/default.svg",
+    "friends": [
+      "660000000000000000000001",
+      "660000000000000000000009"
+    ],
+    "friendRequests": [],
+    "isAdmin": false,
+    "createdAt": "2026-08-30T10:34:42.154Z"
+  },
+  {
+    "_id": "660000000000000000000006",
+    "name": "Grace Lacock",
+    "username": "grace_lacock",
+    "email": "grace@gmail.com",
+    "password": "Lacock@123",
+    "pronouns": "",
+    "bio": "Chasing sunsets and low tides.",
+    "avatar": "/assets/avatars/default.svg",
+    "friends": [
+      "660000000000000000000002",
+      "660000000000000000000007",
+      "660000000000000000000012"
+    ],
+    "friendRequests": [],
+    "isAdmin": false,
+    "createdAt": "2026-08-30T20:34:42.154Z"
+  },
+  {
+    "_id": "660000000000000000000007",
+    "name": "Ella Jurgenson",
+    "username": "ella.j",
+    "email": "ella@gmail.com",
+    "password": "Jurgenson@123",
+    "pronouns": "",
+    "bio": "Collecting memories one trip at a time.",
+    "avatar": "/assets/avatars/default.svg",
+    "friends": [
+      "660000000000000000000002",
+      "660000000000000000000006"
+    ],
+    "friendRequests": [],
+    "isAdmin": false,
+    "createdAt": "2026-08-31T06:34:42.154Z"
+  },
+  {
+    "_id": "660000000000000000000008",
+    "name": "Ethan Maynard",
+    "username": "ethan_maynard",
+    "email": "ethan@gmail.com",
+    "password": "Maynard@123",
+    "pronouns": "",
+    "bio": "Weekend explorer and part-time chef.",
+    "avatar": "/assets/avatars/default.svg",
+    "friends": [
+      "660000000000000000000004",
+      "660000000000000000000012"
+    ],
+    "friendRequests": [],
+    "isAdmin": false,
+    "createdAt": "2026-08-31T16:34:42.154Z"
+  },
+  {
+    "_id": "660000000000000000000009",
+    "name": "Simon Norton",
+    "username": "simon.norton",
+    "email": "simon@gmail.com",
+    "password": "Norton@123",
+    "pronouns": "",
+    "bio": "Night owl with a camera.",
+    "avatar": "/assets/avatars/default.svg",
+    "friends": [
+      "660000000000000000000003",
+      "660000000000000000000005"
+    ],
+    "friendRequests": [],
+    "isAdmin": false,
+    "createdAt": "2026-09-01T02:34:42.154Z"
+  },
+  {
+    "_id": "660000000000000000000010",
+    "name": "Lourens Coetzee",
+    "username": "lourens_c",
+    "email": "lourens@gmail.com",
+    "password": "Coetzee@123",
+    "pronouns": "",
+    "bio": "Looking for the next off-road adventure.",
+    "avatar": "/assets/avatars/lourens.svg",
+    "friends": [
+      "660000000000000000000001",
+      "660000000000000000000011"
+    ],
+    "friendRequests": [],
+    "isAdmin": false,
+    "createdAt": "2026-09-01T12:34:42.154Z"
+  },
+  {
+    "_id": "660000000000000000000011",
+    "name": "Ross Coetzee",
+    "username": "ross_c",
+    "email": "ross@gmail.com",
+    "password": "Coetzee@123",
+    "pronouns": "",
+    "bio": "Happiest in the bush.",
+    "avatar": "/assets/avatars/default.svg",
+    "friends": [
+      "660000000000000000000001",
+      "660000000000000000000010"
+    ],
+    "friendRequests": [],
+    "isAdmin": false,
+    "createdAt": "2026-09-01T22:34:42.154Z"
+  },
+  {
+    "_id": "660000000000000000000012",
+    "name": "Test User",
+    "username": "testuser",
+    "email": "test@test.com",
+    "password": "test1234",
+    "pronouns": "",
+    "bio": "Just here to try things out.",
+    "avatar": "/assets/avatars/default.svg",
+    "friends": [
+      "660000000000000000000006",
+      "660000000000000000000008"
+    ],
+    "friendRequests": [
+      "660000000000000000000007"
+    ],
+    "isAdmin": false,
+    "createdAt": "2026-09-02T08:34:42.154Z"
+  },
+  {
+    "_id": "660000000000000000000013",
+    "name": "Site Admin",
+    "username": "admin",
+    "email": "admin@test.com",
+    "password": "admin123",
+    "pronouns": "",
+    "bio": "Keeping Pick n Post friendly.",
+    "avatar": "/assets/avatars/default.svg",
+    "friends": [],
+    "friendRequests": [],
+    "isAdmin": true,
+    "createdAt": "2026-09-02T18:34:42.154Z"
+  }
+]

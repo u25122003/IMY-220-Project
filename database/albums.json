@@ -1,0 +1,122 @@
+﻿[
+  {
+    "_id": "661000000000000000000001",
+    "userId": "660000000000000000000010",
+    "name": "Safari Trip",
+    "description": "Highlights from our game drive through the reserve.",
+    "hashtags": [
+      "#safari",
+      "#wildlife"
+    ],
+    "posts": [
+      "662000000000000000000001",
+      "662000000000000000000002",
+      "662000000000000000000003"
+    ],
+    "createdAt": "2026-10-10T06:34:42.155Z"
+  },
+  {
+    "_id": "661000000000000000000002",
+    "userId": "660000000000000000000011",
+    "name": "Bushveld",
+    "description": "Wide open spaces and the animals that live there.",
+    "hashtags": [
+      "#nature",
+      "#bushveld"
+    ],
+    "posts": [
+      "662000000000000000000003",
+      "662000000000000000000004"
+    ],
+    "createdAt": "2026-10-10T11:34:42.155Z"
+  },
+  {
+    "_id": "661000000000000000000003",
+    "userId": "660000000000000000000003",
+    "name": "Summer With The Boys",
+    "description": "Sunny days and good company.",
+    "hashtags": [
+      "#summer",
+      "#friends"
+    ],
+    "posts": [
+      "662000000000000000000010",
+      "662000000000000000000011"
+    ],
+    "createdAt": "2026-10-19T15:34:42.156Z"
+  },
+  {
+    "_id": "661000000000000000000004",
+    "userId": "660000000000000000000005",
+    "name": "Rooftop Sunsets",
+    "description": "Golden hour from up high.",
+    "hashtags": [
+      "#sunset",
+      "#city"
+    ],
+    "posts": [
+      "662000000000000000000013"
+    ],
+    "createdAt": "2026-10-24T05:34:42.156Z"
+  },
+  {
+    "_id": "661000000000000000000005",
+    "userId": "660000000000000000000006",
+    "name": "Road Trips",
+    "description": "Long drives, loud music and the best people.",
+    "hashtags": [
+      "#roadtrip",
+      "#friends"
+    ],
+    "posts": [
+      "662000000000000000000016",
+      "662000000000000000000017"
+    ],
+    "createdAt": "2026-10-26T07:34:42.156Z"
+  },
+  {
+    "_id": "661000000000000000000006",
+    "userId": "660000000000000000000007",
+    "name": "Beach Days",
+    "description": "Sun, sand and trips along the coast.",
+    "hashtags": [
+      "#beach",
+      "#holiday"
+    ],
+    "posts": [
+      "662000000000000000000008",
+      "662000000000000000000009"
+    ],
+    "createdAt": "2026-10-26T02:34:42.156Z"
+  },
+  {
+    "_id": "661000000000000000000007",
+    "userId": "660000000000000000000001",
+    "name": "Good Times",
+    "description": "The people and places that make every weekend better.",
+    "hashtags": [
+      "#friends",
+      "#memories"
+    ],
+    "posts": [
+      "662000000000000000000024",
+      "662000000000000000000025",
+      "662000000000000000000015"
+    ],
+    "createdAt": "2026-10-29T09:34:42.156Z"
+  },
+  {
+    "_id": "661000000000000000000008",
+    "userId": "660000000000000000000012",
+    "name": "Camping Weekends",
+    "description": "Early mornings and campfire nights.",
+    "hashtags": [
+      "#camping",
+      "#outdoors"
+    ],
+    "posts": [
+      "662000000000000000000021"
+    ],
+    "createdAt": "2026-10-29T03:34:42.156Z"
+  }
+]
